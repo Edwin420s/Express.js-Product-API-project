@@ -28,4 +28,3 @@ A simple and secure RESTful API for managing product listings using **Node.js**,
    ```bash
    git clone https://github.com/your-username/product-api.git
    cd product-api
-npm install
