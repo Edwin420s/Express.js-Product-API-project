@@ -26,7 +26,8 @@ A simple and secure RESTful API for managing product listings using Node.js, Exp
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/product-api.git
+git clone https://github.com/Edwin420s/Express.js-Product-API-project.git
+
 cd product-api
 
 # Install dependencies
